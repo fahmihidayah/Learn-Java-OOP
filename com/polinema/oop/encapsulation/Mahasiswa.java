@@ -6,6 +6,7 @@ public class Mahasiswa {
     private String address;
     private String email;
     private String password;
+    
     public String getName() {
         return name;
     }
