@@ -4,8 +4,5 @@ public interface Senjata {
 
     public void serang();
 
-    public String getNama();
-
-    public void setNama(String nama);
 
 }
