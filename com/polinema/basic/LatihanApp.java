@@ -45,8 +45,13 @@ public class LatihanApp {
         return p * l;
     }
 
-
-
+    public static double pangkat(int x, int y) {
+        int hasil = 1;
+        for (int i = 0; i < y; i++) {
+            hasil = hasil * x;
+        }
+        return hasil;
+    }
 
 
 }
