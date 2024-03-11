@@ -28,8 +28,12 @@ public class MainApp {
     }
 }
 ```
-Jika sudah maka kirim kan tugas ke
+Untuk operasi pangkat bisa dilihat disini : 
 
+```
+https://github.com/fahmihidayah/Learn-Java-OOP/blob/main/com/polinema/basic/LatihanApp.java
+```
+Jika sudah maka kirim kan tugas ke
 
 Email : m[dot]fahmi[dot]hidayah[at]gmail[dot]com 
 
